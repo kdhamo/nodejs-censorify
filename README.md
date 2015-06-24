@@ -1,1 +1,1 @@
-This is my first Node.Js module! :)
+Module which helps masking sensitive data.
